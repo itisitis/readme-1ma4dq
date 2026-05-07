@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://itisitis.github.io/readme-1ma4dq/sitemap.xml
